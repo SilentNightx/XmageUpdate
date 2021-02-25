@@ -8,7 +8,7 @@ Download and edit updateXmage.sh and replace the following with your settings:
 {YOUR MAX SECONDS IDLE}  
 {YOUR MAX AI OPPONENTS}  
 
-Than:  
+Then:  
 chmod 755 updateXmage.sh to set execution permissions  
 ./updateXmage.sh to run  
 
