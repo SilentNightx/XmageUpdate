@@ -12,6 +12,8 @@ Then:
 chmod 755 updateXmage.sh to set execution permissions  
 ./updateXmage.sh to run  
 
+If you don't have Xmage installed yet this will install it fresh for you.
+
 Wherever you run updateXmage.sh is where the mage-server folder will end up.  
 
 If you want to keep the setting the same as default you can just delete the whole sed command.  
