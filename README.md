@@ -9,8 +9,8 @@ Download and edit updateXmage.sh and replace the following with your settings:
 {YOUR MAX AI OPPONENTS}  
 
 Then:  
-chmod 755 updateXmage.sh to set execution permissions  
-./updateXmage.sh to run  
+`chmod 755 updateXmage.sh` to set execution permissions  
+`./updateXmage.sh` to run  
 
 If you don't have Xmage installed yet this will install it fresh for you.
 
